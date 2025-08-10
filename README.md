@@ -12,8 +12,8 @@ This repository contains the implementation of the **Smart Shopping Cart**, a mi
 ## Technology Stack
 - **Hardware**:
   - RFID Reader and Tags
-  - Microcontroller (e.g., ESP32/Arduino)
-  - Display Module (e.g., LCD/LED)
+  - Microcontroller 
+  - Display Module 
 - **Software**:
   - Programming Languages: C, Python, or Arduino IDE
   - Microcontroller Programming Libraries
